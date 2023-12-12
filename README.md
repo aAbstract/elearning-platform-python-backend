@@ -1,5 +1,4 @@
 # E-Learning Platform Backend with Python and FastAPI
-
 Welcome to my E-Learning Platform backend repository! This project serves as the backend for my Vue.js frontend, providing a robust foundation for my E-Learning Platform using FastAPI. Whether you're an educator or a learner, my backend ensures a secure and efficient learning experience.
 
 ## Features
