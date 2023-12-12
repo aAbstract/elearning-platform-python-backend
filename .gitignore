@@ -1,0 +1,7 @@
+*.pyc
+*.pyo
+*.mwb
+*.mwb.bak
+database/online_seed.sql
+database/design/seed.sql
+backups/*.sql
